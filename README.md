@@ -10,3 +10,5 @@
 - 할일 목록
 - 날씨 api
 - 배경사진 랜덤
+
+![localstorageimg](./images/readme_img.png)
